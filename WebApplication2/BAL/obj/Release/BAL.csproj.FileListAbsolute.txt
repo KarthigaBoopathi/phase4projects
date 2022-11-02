@@ -1,0 +1,6 @@
+C:\Users\Karthiga\source\repos\WebApplication2\BAL\bin\Release\BAL.dll
+C:\Users\Karthiga\source\repos\WebApplication2\BAL\bin\Release\BAL.pdb
+C:\Users\Karthiga\source\repos\WebApplication2\BAL\obj\Release\BAL.csproj.AssemblyReference.cache
+C:\Users\Karthiga\source\repos\WebApplication2\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Karthiga\source\repos\WebApplication2\BAL\obj\Release\BAL.dll
+C:\Users\Karthiga\source\repos\WebApplication2\BAL\obj\Release\BAL.pdb

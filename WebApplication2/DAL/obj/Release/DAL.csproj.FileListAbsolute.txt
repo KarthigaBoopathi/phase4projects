@@ -1,0 +1,9 @@
+C:\Users\Karthiga\source\repos\WebApplication2\DAL\bin\Release\DAL.dll
+C:\Users\Karthiga\source\repos\WebApplication2\DAL\bin\Release\DAL.pdb
+C:\Users\Karthiga\source\repos\WebApplication2\DAL\bin\Release\BAL.dll
+C:\Users\Karthiga\source\repos\WebApplication2\DAL\bin\Release\BAL.pdb
+C:\Users\Karthiga\source\repos\WebApplication2\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\Karthiga\source\repos\WebApplication2\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Karthiga\source\repos\WebApplication2\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Karthiga\source\repos\WebApplication2\DAL\obj\Release\DAL.dll
+C:\Users\Karthiga\source\repos\WebApplication2\DAL\obj\Release\DAL.pdb
